@@ -25,12 +25,12 @@ Complementing the backend is an interactive, mobile-optimized Telegram Mini App 
 
 ## Key Features
 
-- 🌊 **Real-Time On-Chain Scanner**: Asynchronous WebSocket block listener filtering Mantle block logs through a 9-step detection pipeline with automated reconnection backoff.
-- 🤖 **AI Degen Commentary Engine**: Multi-key rotation wrapper over Google Gemini Flash to generate single-sentence, street-smart analytical commentary for every whale transaction.
-- 💰 **Dual-Layer Price Oracle**: Instant USD valuation using Pyth Network Oracles with on-chain Merchant Moe DEX router fallback for tokens without native price feeds.
-- 📱 **Telegram Mini App & Bot**: Sleek glassmorphism UI for web3 wallet connection, live activity feed viewing, and interactive inline filter configuration.
-- 🔐 **Cryptographic Verification**: Web3 wallet ownership verification (`EIP-191` message signatures) and double-spend-proof on-chain receipt validation for subscriptions.
-- 📢 **Fan-Out Broadcast Engine**: Rate-limited queue broadcasting alerts to individual Telegram subscribers based on custom filter criteria and public Telegram channels.
+-  **Real-Time On-Chain Scanner**: Asynchronous WebSocket block listener filtering Mantle block logs through a 9-step detection pipeline with automated reconnection backoff.
+-  **AI Degen Commentary Engine**: Multi-key rotation wrapper over Google Gemini Flash to generate single-sentence, street-smart analytical commentary for every whale transaction.
+-  **Dual-Layer Price Oracle**: Instant USD valuation using Pyth Network Oracles with on-chain Merchant Moe DEX router fallback for tokens without native price feeds.
+-  **Telegram Mini App & Bot**: Sleek glassmorphism UI for web3 wallet connection, live activity feed viewing, and interactive inline filter configuration.
+-  **Cryptographic Verification**: Web3 wallet ownership verification (`EIP-191` message signatures) and double-spend-proof on-chain receipt validation for subscriptions.
+-  **Fan-Out Broadcast Engine**: Rate-limited queue broadcasting alerts to individual Telegram subscribers based on custom filter criteria and public Telegram channels.
 
 ---
 
