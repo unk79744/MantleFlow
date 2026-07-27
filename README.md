@@ -9,7 +9,6 @@
 [![Mantle Network](https://img.shields.io/badge/Blockchain-Mantle_Network-000000.svg)](https://www.mantle.xyz/)
 [![Gemini AI](https://img.shields.io/badge/AI-Gemini_Flash-blue.svg)](https://deepmind.google/technologies/gemini/)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 
 ---
 
@@ -168,6 +167,4 @@ Complementing the backend is an interactive, mobile-optimized Telegram Mini App 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
 
-Запросите следующую порцию сообщений, и я пришлю чистый код без единого комментария (с реалистичными демо-заглушками для карточек на фронтенде), разделенный по файлам.
