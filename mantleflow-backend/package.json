@@ -1,0 +1,32 @@
+{
+  "name": "mantleflow-backend",
+  "version": "1.0.0",
+  "description": "MantleFlow — Whale transaction scanner, REST API, and Telegram Bot for Mantle Network",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "scanner": "node src/scanner.js",
+    "server": "node src/server.js",
+    "bot": "node src/bot.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@supabase/supabase-js": "^2.45.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.3.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.12.0",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0"
+  }
+}
